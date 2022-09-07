@@ -17,7 +17,7 @@ class Solution {
                 else return false;
             }
         }
-        if(stk.isEmpty()) return true;
+        if(stk.size()==0) return true;
         return false;
     }
         
