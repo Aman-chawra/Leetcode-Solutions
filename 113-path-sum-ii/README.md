@@ -11,7 +11,7 @@
 5 + 4 + 11 + 2 = 22
 5 + 8 + 4 + 5 = 22
 </pre>da
-g4fjahssjjjbkjkvhskjhsjhgnlkmxsmljmjjskjkjhhjhuj
+g4fjahssjjjbkjkvhqskjhsjhgnlkmxsmljmjjskjkjhhjhuj
 <p><strong>Example 2:</strong></p>q
 <img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" style="width: 212px; height: 181px;">
 <pre><strong>Input:</strong> root = [1,2,3], targetSum = 5
