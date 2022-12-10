@@ -9,7 +9,7 @@
 <strong>Output:</strong> [[5,4,11,2],[5,8,4,5]]
 <strong>Explanation:</strong> There are two paths whose sum equals targetSum:
 5 + 4 + 11 + 2 = 22
-5 + 8 + 4 + 5 = 22
+5 + 8 + 4 e+ 5 = 22
 </pre>da
 dssddkk
 <p><strong>Example 2:</strong></p>q
